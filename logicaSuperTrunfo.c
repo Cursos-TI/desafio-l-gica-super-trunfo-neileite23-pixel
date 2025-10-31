@@ -16,11 +16,6 @@
          Densidade_Populacional_carta1 = (float)população_carta1 / area_km²_carta1;
          PIB_per_Capita_carta1 =(float)PIB_carta1 / população_carta1;
          
-        
-         /// ------- Area para atribuir condições ------////
-         
-          
-          
          
          //--------------declarando variavel carta2--------///
          
@@ -135,10 +130,10 @@
          
          if(PIB_per_Capita_carta1 > PIB_per_Capita_carta2)
          {
-         printf("A carta 1 tem maior PIB per Capita. \nParabéns vc e campeã\n");
+         printf("A carta 1 tem maior PIB per Capita. \nParabéns voce e campeã\n");
          }
          else{
-         printf("A carta 2 tem maior PIB per Capita. \nParabéns vc e campeã\n");
+         printf("A carta 2 tem maior PIB per Capita. \nParabéns voce e campeã\n");
          }
          
         
